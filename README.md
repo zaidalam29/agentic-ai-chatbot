@@ -1,6 +1,7 @@
 # Agentic AI ChatBot
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
+![AgentSpan](https://img.shields.io/badge/Framework-AgentSpan-2E8B57?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![uv](https://img.shields.io/badge/Package%20Manager-uv-DE5FE9?style=flat-square&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Search-Tavily-FF4B4B?style=flat-square&logoColor=white)
