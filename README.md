@@ -8,7 +8,7 @@
 
 A small Python Agentic AI ChatBot repository for experimenting with OpenAI model calls and AgentSpan-based AI agents. The examples progress from a direct OpenAI chat loop to tool-using agents with memory, internet search, guardrails, structured output, and human approval.
 
-**Author:** Zaid Alam — Senior Full Stack Developer & GenAI/ML Engineer
+**Author:** Zaid Alam — Senior Full Stack Developer + GenAI/ML Engineer
 
 ---
 
